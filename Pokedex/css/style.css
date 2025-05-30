@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Jersey+15&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Audiowide', cursive
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(to bottom, #6ab7f5, #fff);
+}
+
+main {
+    background-color: red;
+    display: inline-block;
+    margin-top: 2%;
+}
